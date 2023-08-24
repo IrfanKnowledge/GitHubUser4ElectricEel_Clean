@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+
+    <string name="search">Search</string>
+    <string name="user_avatar_label">User Avatar Label</string>
+    <string name="following_key">Following:</string>
+    <string name="followers_key">Followers:</string>
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Followers</string>
+    <string name="tabs_following_followers_label">Ini adalah tab berisikan daftar following dan followers</string>
+    <string name="querry_hint">Nama pengguna …</string>
+
+    <string name="favorite_github_user">Favorite</string>
+    <string name="favorite_github_user_title">Favorite GitHub Users</string>
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="fab_content_desc_detail_github_user">Tombol menambahkan atau menghapus akun github dari daftar favorit</string>
+</resources>
